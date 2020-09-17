@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+.dot {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #bbb;
+}
+
+.dot.hovered {
+  background-color: green;
+}
